@@ -212,3 +212,24 @@ C:\Users\GeEEE\Dropbox\Final\travel experts - C#\TravelExperts\obj\Debug\TravelE
 C:\Users\GeEEE\Dropbox\Final\travel experts - C#\TravelExperts\obj\Debug\TravelExperts.Properties.Resources.resources
 C:\Users\GeEEE\Dropbox\Final\travel experts - C#\TravelExperts\obj\Debug\TravelExperts.SplashScreen.resources
 C:\Users\GeEEE\Dropbox\Final\travel experts - C#\TravelExperts\obj\Debug\TravelExperts.csproj.GenerateResource.Cache
+C:\Users\GeEEE\Documents\GitHub\Travel-Experts\TravelExperts\bin\Debug\TravelExperts.exe.config
+C:\Users\GeEEE\Documents\GitHub\Travel-Experts\TravelExperts\obj\Debug\TravelExperts.exe
+C:\Users\GeEEE\Documents\GitHub\Travel-Experts\TravelExperts\obj\Debug\TravelExperts.pdb
+C:\Users\GeEEE\Documents\GitHub\Travel-Experts\TravelExperts\bin\Debug\APP_DATA\TravelExperts.mdf
+C:\Users\GeEEE\Documents\GitHub\Travel-Experts\TravelExperts\bin\Debug\APP_DATA\TravelExperts_log.ldf
+C:\Users\GeEEE\Documents\GitHub\Travel-Experts\TravelExperts\bin\Debug\TravelExperts.exe
+C:\Users\GeEEE\Documents\GitHub\Travel-Experts\TravelExperts\bin\Debug\TravelExperts.pdb
+C:\Users\GeEEE\Documents\GitHub\Travel-Experts\TravelExperts\obj\Debug\TravelExperts.csprojResolveAssemblyReference.cache
+C:\Users\GeEEE\Documents\GitHub\Travel-Experts\TravelExperts\obj\Debug\TravelExperts.ExplorerForm.resources
+C:\Users\GeEEE\Documents\GitHub\Travel-Experts\TravelExperts\obj\Debug\TravelExperts.frmAddModifyPackages.resources
+C:\Users\GeEEE\Documents\GitHub\Travel-Experts\TravelExperts\obj\Debug\TravelExperts.frmPackages.resources
+C:\Users\GeEEE\Documents\GitHub\Travel-Experts\TravelExperts\obj\Debug\TravelExperts.frmProductAddEdit.resources
+C:\Users\GeEEE\Documents\GitHub\Travel-Experts\TravelExperts\obj\Debug\TravelExperts.frmProductExplorer.resources
+C:\Users\GeEEE\Documents\GitHub\Travel-Experts\TravelExperts\obj\Debug\TravelExperts.frmAddModifySupplier.resources
+C:\Users\GeEEE\Documents\GitHub\Travel-Experts\TravelExperts\obj\Debug\TravelExperts.frmSuppliers.resources
+C:\Users\GeEEE\Documents\GitHub\Travel-Experts\TravelExperts\obj\Debug\TravelExperts.Login.resources
+C:\Users\GeEEE\Documents\GitHub\Travel-Experts\TravelExperts\obj\Debug\TravelExperts.Form1.resources
+C:\Users\GeEEE\Documents\GitHub\Travel-Experts\TravelExperts\obj\Debug\TravelExperts.MainForm.resources
+C:\Users\GeEEE\Documents\GitHub\Travel-Experts\TravelExperts\obj\Debug\TravelExperts.Properties.Resources.resources
+C:\Users\GeEEE\Documents\GitHub\Travel-Experts\TravelExperts\obj\Debug\TravelExperts.SplashScreen.resources
+C:\Users\GeEEE\Documents\GitHub\Travel-Experts\TravelExperts\obj\Debug\TravelExperts.csproj.GenerateResource.Cache
