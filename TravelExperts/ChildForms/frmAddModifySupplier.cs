@@ -260,6 +260,7 @@ namespace TravelExperts
             dgvProducts.Columns[1].Visible = false;
             dgvProducts.Columns[2].Visible = false;
             dgvProducts.Columns[3].Width = 195;
+            dgvProducts.Columns[4].Visible = false;
         }
 
         // button to delete fa product from the list of products
