@@ -35,3 +35,6 @@ C:\Users\GeEEE\Dropbox\Final\travel experts - C#\TravelExperts\obj\Release\Trave
 C:\Users\GeEEE\Dropbox\Final\travel experts - C#\TravelExperts\obj\Release\TravelExperts.Properties.Resources.resources
 C:\Users\GeEEE\Dropbox\Final\travel experts - C#\TravelExperts\obj\Release\TravelExperts.SplashScreen.resources
 C:\Users\GeEEE\Dropbox\Final\travel experts - C#\TravelExperts\obj\Release\TravelExperts.csproj.GenerateResource.Cache
+C:\Users\679720\Dropbox\Final\travel experts - C#\TravelExperts\bin\Release\TravelExperts.exe.config
+C:\Users\679720\Dropbox\Final\travel experts - C#\TravelExperts\obj\Release\TravelExperts.exe
+C:\Users\679720\Dropbox\Final\travel experts - C#\TravelExperts\obj\Release\TravelExperts.pdb
